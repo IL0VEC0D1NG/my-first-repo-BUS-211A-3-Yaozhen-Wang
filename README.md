@@ -13,5 +13,5 @@ A MSF student in Brandeis University trying to land a career in Finance job mark
 - **Name:** Haomiao Jia
 - **Major:** MSF
 - **Year:** Second year Master degree
-- **Professional Interests:** Data Analytics in Finance, Risk Assessment
+- **Professional Interests:** Asset management,Corporate Finance
 
