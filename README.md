@@ -7,7 +7,7 @@ A MSF student in Brandeis University trying to land a career in Finance job mark
 - **Name:** Yinan Li
 - **Major:** MSF
 - **Year:** Second year Master degree
-- **Professional Interests:** Accounting, Corporation Finance
+- **Professional Interests:** Accounting, Corporation Finance,computer simulation
 
 ## Student 2
 - **Name:** Haomiao Jia
